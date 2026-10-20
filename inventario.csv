@@ -1,0 +1,16 @@
+ID_Producto,Producto,Sucursal,Categoria,Cantidad,Precio_Unitario,Valor_Total
+101,Laptop Dell,San Salvador,Tecnología,25,750.00,18750.00
+102,Silla Ergonómica,Santa Ana,Mobiliario,40,120.00,4800.00
+103,Escritorio de Madera,San Miguel,Mobiliario,15,250.00,3750.00
+104,Impresora HP,La Libertad,Tecnología,18,180.00,3240.00
+105,Monitor 27",Sonsonate,Tecnología,30,220.00,6600.00
+106,Teclado Mecánico,San Salvador,Accesorios,50,45.00,2250.00
+107,Mouse Inalámbrico,Santa Ana,Accesorios,60,25.00,1500.00
+108,Lámpara de Escritorio,San Miguel,Mobiliario,35,30.00,1050.00
+109,Auriculares Bluetooth,La Libertad,Accesorios,45,55.00,2475.00
+110,Tablet Samsung,Sonsonate,Tecnología,20,310.00,6200.00
+111,Servidor Rack,San Salvador,Tecnología,5,2100.00,10500.00
+112,Archivador Metálico,Santa Ana,Mobiliario,12,140.00,1680.00
+113,Proyector Epson,San Miguel,Tecnología,8,450.00,3600.00
+114,Disco Duro Externo 2TB,La Libertad,Accesorios,35,85.00,2975.00
+115,Silla Ejecutiva,Sonsonate,Mobiliario,10,190.00,1900.00
